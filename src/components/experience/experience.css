@@ -1,0 +1,89 @@
+.experience__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 10px;
+}
+
+.experience__container > div {
+  background: var(--color-bg-variant);
+  padding: 2.4rem 3rem;
+  border-radius: 1rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.experience__container > div:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+.experience__container > div h3 {
+  text-align: center;
+  margin-bottom: 3px;
+  font-size: 23px;
+  color: var(--color-primary);
+}
+
+.experience__contenet {
+  display: grid;
+  grid-template-columns: 3fr 3fr;
+  row-gap: 1rem;
+}
+
+.experience__details {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  text-align: center;
+}
+.experience__details-icon {
+  margin-bottom: 5px;
+  font-size: 28px;
+  color: var(--color-primary);
+}
+@media screen and (min-width: 600px) {
+  .experience__details-icon {
+    font-size: 32px;
+  }
+}
+.experience__details h4 {
+  color: rgb(112, 4, 4);
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+@media screen and (min-width: 600px) {
+  .experience__details h4 {
+    font-size: 18px;
+  }
+}
+
+/*===============MEDIA QUERIES(MEDIUM DEVICE)==============*/
+
+@media screen and (max-width: 700px) {
+  .experience__container {
+    grid-template-columns: 1fr;
+  }
+
+  .experience__container > div {
+    width: 80%;
+    padding: 2rem;
+    margin: 0 auto;
+  }
+
+  .experience__contenet {
+    padding: 1rem;
+  }
+}
+
+/*===============MEDIA QUERIES(SMALL DEVICE)==============*/
+
+@media screen and (max-width: 450px) {
+  .experience__container {
+    gap: 1rem;
+  }
+  .experience__container > div {
+    width: 300px;
+    padding: 2rem 1rem;
+  }
+}

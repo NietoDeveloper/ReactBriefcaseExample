@@ -1,0 +1,90 @@
+footer {
+  background: transparent;
+  padding: 36px 0;
+  text-align: center;
+  margin-top: 120px;
+}
+
+footer a {
+  color: gold;
+  font-size: 15px;
+}
+footer a:hover {
+  color: rgb(112, 4, 4);
+}
+.footer__logo {
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  display: inline-block;
+}
+.footer__logo:hover {
+  font-size: 28px;
+}
+
+.permalinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 0 auto 2rem;
+}
+
+.footer__socials {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  margin-top: -10px;
+}
+
+.footer__socials a {
+  background: #000000ab;
+  color: gold;
+  padding: 0.8rem;
+  border-radius: 0.7rem;
+  display: flex;
+  border: 1px solid transparent;
+}
+
+.footer__socials a:hover {
+  background: transparent;
+  color: var(--scarlet);
+  border-color: var(--scarlet);
+}
+
+.footer__copy{
+  display: block;
+  margin-top: -20px;
+  text-align: center;
+}
+.footer__copy p {
+color: gold;
+font-size: 14px;
+}
+.footer__dev-link{
+  color: gold;
+  font-size: 24px;
+  margin-top: -20px;
+}
+.footer__copy,
+.footer__dev-link:hover{
+  color: red;
+  transition: .3s;
+  animation: a 3s infinite; 
+  margin-bottom: 110px;
+  font-size: 28px;
+}
+
+
+/*================ MEDIA QUERIES(SMALL DEVICE) ==============*/
+@media screen and (max-width: 600px) {
+  .permalinks {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .footer__socials {
+    margin-bottom: 2.6rem;
+  }
+}

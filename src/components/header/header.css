@@ -1,0 +1,120 @@
+/*================CTA==============*/
+
+.cta {
+  margin-top: 90px;
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+@media (min-width: 700px) {
+  .cta {
+    margin-top: 60px;
+  }
+}
+/*================ MEDIA QUERIES(SMALL DEVICE) ==============*/
+@media screen and (max-width: 600px) {
+  .me {
+    width: 67%;
+    margin: 4rem 3.6rem 2rem;
+    height: 29%;
+  }
+}
+
+
+
+.neon {
+  position: relative;
+  display: inline-block;
+  text-transform: uppercase;
+  width: 140px;
+  height: 80px;
+  text-decoration: none;
+  overflow: hidden;
+  transition: 0.001s;
+}
+
+@media (min-width: 340px) {
+  .neon {
+    font-size: 30px;
+  }
+}
+
+.neon:hover {
+  color: var(--blue);
+  background: #80c0f5;
+  box-shadow: 0 0 10px #58adf1, 0 0 40px #58adf1, 0 0 80px #58adf1;
+  transition-delay: 0.6s;
+}
+
+.neon span {
+  position: absolute;
+  display: block;
+}
+
+a span:nth-child(1) {
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 10px;
+  background: linear-gradient(90deg, transparent, #2196f3);
+}
+
+.neon:hover span:nth-child(1) {
+  left: 100%;
+  transition: 1s;
+}
+
+.neon span:nth-child(2) {
+  top: -100%;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #2196f3);
+}
+
+.neon:hover span:nth-child(2) {
+  left: 100%;
+  transition: 1s;
+  transition-delay: 0.15s;
+}
+
+.neon span:nth-child(3) {
+  bottom: 0;
+  right: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(270deg, transparent, #2196f3);
+}
+
+.neon:hover span:nth-child(3) {
+  left: 100%;
+  transition: 1s;
+  transition-delay: 0.5s;
+}
+
+.neon span:nth-child(4) {
+  bottom: -100%;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(270deg, transparent, #2196f3);
+}
+
+.neon:hover span:nth-child(4) {
+  bottom: 100%;
+  transition: 1s;
+  transition-delay: 0.6s;
+}
+
+.neon h3 {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 25px;
+}
+@media (min-width: 700px) {
+  .neon h3 {
+    font-size: 22px;
+    margin-top: 24px;
+  }
+}
