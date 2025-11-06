@@ -1,4 +1,4 @@
-# 
+# Briefcase Example
 
 ## Available Scripts
 
