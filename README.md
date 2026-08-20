@@ -155,9 +155,3 @@ This project is licensed under the **MIT License**.
 
 
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=BRIEFCASE%20EXAMPLE&fontSize=58&fontColor=FFD700&fontAlignY=42&desc=💼%20React%20Portfolio%20Template%20%C2%B7%20Reusable%20Component%20Boilerplate&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%92%BC+Reusable+React+Portfolio+Boilerplate;%E2%9A%9B%EF%B8%8F+Modular+Section+Components;%F0%9F%93%84+About
