@@ -12,8 +12,7 @@ Launches the test runner in
 
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/de
 ### `npm run eject`
 
 go back!**guration choices, you can `eject` our project.
