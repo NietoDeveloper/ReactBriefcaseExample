@@ -290,8 +290,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ---
 
 ## 📄 License
-
-This project is licensed under the **MIT License**.
-
-<div align="center">
-
