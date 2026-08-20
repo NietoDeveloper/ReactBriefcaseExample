@@ -14,8 +14,6 @@ Launches the test runner in the interac
 See the section about [running tests](https://facebook.github.io/
 
 
-Builds the app for production to the `build` folder.\
-
 
 Your app is ready to be deployed!
 
