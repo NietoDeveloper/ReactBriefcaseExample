@@ -7,8 +7,6 @@ In the project directory, you can run:
 ### `npm start`
 
 
-Launches the test runner in 
-
 ready for it.
 
 
