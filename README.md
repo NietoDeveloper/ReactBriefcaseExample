@@ -180,12 +180,3 @@ This project is licensed under the **MIT License**.
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NietoDeveloper/ReactBriefcaseExample">
-    <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FReactBriefcaseExample-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  </a>
-</p>
-
-</div>
