@@ -195,16 +195,3 @@ This project is licensed under the **MIT License**.
 ## 📋 Overview
 
 **Briefcase Example** is a reusable React portfolio boilerplate, structured around clean, modular section components — About, Experience, Portfolio, and Contact — ready to be customized and reused across personal or client portfolio sites. Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
----
-
-## 🗂️ Project Structure
-
-```text
-ReactBriefcaseExample/
-├── public/
-└── src/
-    ├── assets/
-    └── components/
-        ├── about/
-        ├── contact/
