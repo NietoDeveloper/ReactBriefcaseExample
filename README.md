@@ -226,13 +226,3 @@ flowchart LR
     C --> D[about]
     D --> E[experience]
     E --> F[portfolio]
-    F --> G[contact]
-    G --> H[footer]
-
-    style A fill:#FFD700,color:#000,stroke:#FFD700
-    style D fill:#06B6D4,color:#000,stroke:#06B6D4
-    style H fill:#000,color:#FFD700,stroke:#FFD700
-```
-
----
-
