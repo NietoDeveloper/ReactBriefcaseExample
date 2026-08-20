@@ -16,7 +16,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-go back!**guration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+go back!**guration choices, you can `eject` our project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel,f the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
