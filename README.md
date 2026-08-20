@@ -160,16 +160,4 @@ This project is licensed under the **MIT License**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=BRIEFCASE%20EXAMPLE&fontSize=58&fontColor=FFD700&fontAlignY=42&desc=💼%20React%20Portfolio%20Template%20%C2%B7%20Reusable%20Component%20Boilerplate&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%92%BC+Reusable+React+Portfolio+Boilerplate;%E2%9A%9B%EF%B8%8F+Modular+Section+Components;%F0%9F%93%84+About+%C2%B7+Experience+%C2%B7+Portfolio+%C2%B7+Contact;%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://img.shields.io/badge/Engineer-Manuel%20Nieto-blue?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://committers.top/colombia#NietoDeveloper">
-    <img src="https://img.shields.io/badge/Committers.top-%231%20Colombia-gold?style=for-the-badge"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%92%BC+Reusable+React+Portfolio+Boilerplate;%E2%9A%9B%EF%B8%8F+Modular+Section+Components;%F0%9F%93%84+About
