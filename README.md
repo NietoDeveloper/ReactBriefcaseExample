@@ -236,13 +236,3 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| 🎨 **Frontend** | React (Create React App) |
-| 🔧 **Version Control** | Git / GitHub |
-
-</div>
