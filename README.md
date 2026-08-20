@@ -172,11 +172,4 @@ This project is licensed under the **MIT License**.
     <img src="https://img.shields.io/badge/Committers.top-%231%20Colombia-gold?style=for-the-badge"/>
   </a>
   <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  </a>
-  <a href="https://create-react-app.dev/">
-    <img src="https://img.shields.io/badge/Bootstrapped-Create_React_App-09D3AC?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/
