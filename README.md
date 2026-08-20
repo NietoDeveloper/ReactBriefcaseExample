@@ -17,7 +17,6 @@ See the section about [running tests](https://facebook.github.io/
 Builds the app for production to the `build` folder.\
 
 
-The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
