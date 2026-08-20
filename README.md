@@ -1,3 +1,2 @@
 # Briefcase Example
 
-## Available Scripts
