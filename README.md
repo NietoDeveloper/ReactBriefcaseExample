@@ -9,7 +9,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\t in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the cons
+You may also see any lint errors in th
 
 ### `npm test`
 
@@ -18,7 +18,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and build for the best performance.
+It correctly bundles React in production mode anld for the best performance.
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
