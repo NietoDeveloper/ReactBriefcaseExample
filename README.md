@@ -246,8 +246,3 @@ flowchart LR
 | 🔧 **Version Control** | Git / GitHub |
 
 </div>
-
----
-
-## 🚀 Available Scripts
-
