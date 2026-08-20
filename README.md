@@ -7,9 +7,7 @@ In the project directory, you can run:
 ### `npm start`
 
 
-Launches the test runner in the interac
-See the section about [running tests](https://facebook.github.io/
-
+Launches the test runner in 
 
 
 Your app is ready to be deployed!
