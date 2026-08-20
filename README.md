@@ -8,8 +8,7 @@ In the project directory, you can run:
 
 
 Launches the test runner in 
-create-react-app/docs/de
-### `npm run eject`
+
 ready for it.
 
 
