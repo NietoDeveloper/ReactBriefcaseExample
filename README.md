@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\t in your browser.
+Runs the app in the development mode.\t in you
 
 The page will reload when you make changes.\
 You may also see any lint errors in th
