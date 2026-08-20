@@ -208,21 +208,3 @@ ReactBriefcaseExample/
     └── components/
         ├── about/
         ├── contact/
-        ├── experience/
-        ├── footer/
-        ├── header/
-        ├── nav/
-        └── portfolio/
-```
-
----
-
-## 🔄 Portfolio Page Flow
-
-```mermaid
-flowchart LR
-    A([👤 Visitor]) -->|Loads| B[header]
-    B --> C[nav]
-    C --> D[about]
-    D --> E[experience]
-    E --> F[portfolio]
