@@ -7,9 +7,6 @@ In the project directory, you can run:
 ### `npm start`
 
 
-
-### `npm test`
-
 Launches the test runner in the interac
 See the section about [running tests](https://facebook.github.io/
 
